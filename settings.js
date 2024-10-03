@@ -10,23 +10,23 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "2348187637779"
-global.ownername = "ᴇꜱ ᴛᴇᴀᴍꜱ-ᴛᴇᴄʜ👑"
+global.ownernomer = "2349026200686"
+global.ownername = "QUEEN SMILE"
 global.ytname = "YT: paskito"
 global.socialm = "GitHub: paskito002"
-global.location = "Nigeria,Cross River,Calabar"
+global.location = "UK"
 
-global.ownernumber = '2348187637779'  //creator number
-global.ownername = 'ᴇꜱ ᴛᴇᴀᴍꜱ-ᴛᴇᴄʜ👑' //owner name
-global.botname = 'S҉ T҉ I҉ N҉ G҉ E҉ R҉- V҉ 2҉' //name of the bot
+global.ownernumber = '2349026200686'  //creator number
+global.ownername = 'QUEEN SMILE' //owner name
+global.botname = 'SPIDER-V8' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
-global.author = 'ᴇꜱ ᴛᴇᴀᴍꜱ-ᴛᴇᴄʜ👑\n\nContact: +2348187637779'
+global.author = 'QUEEN SMILE\n\nContact: +2349026200686'
 
 //console view/theme
 global.themeemoji = '🪀'
-global.wm = "ES TEAMS Inc."
+global.wm = "QUEEN SMILE."
 
 //theme link
 global.link = 'https://whatsapp.com/channel/0029Vaj1vKSK5cDDT4tVvY1y'
@@ -60,12 +60,12 @@ global.bimg = '//9j/4AAQSkZJRgABAQAAAQABAAD/4gIoSUNDX1BST0ZJTEUAAQEAAAIYAAAAAAQw
 global.mess = {
     done: 'Done !',
     prem: 'Stinger-V2 can be used by premium user only',
-    admin: 'Stinger-V2 can be used by ES TEAMS only',
+    admin: 'Stinger-V2 can be used by QUEEN SMILE only',
     botAdmin: 'Stinger-V2 can only be used when the bot is a group admin ',
-    owner: 'Stinger-V2 can be used by  ES TEAMS only',
+    owner: 'Stinger-V2 can be used by  QUEEN SMILE only',
     group: 'Stinger-V2 is only for groups',
     private: 'Stinger-V2  is only for private chats',
-    wait: 'Es Teams is processing your request 😘... ',    
+    wait: 'QUEEN SMILEis processing your request 😘... ',    
     error: 'Error!',
 }
 
