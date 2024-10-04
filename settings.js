@@ -3,30 +3,30 @@
 //Instagram: unicorn_xeon13
 //Telegram: t.me/xeonbotinc
 //GitHub: @DGXeon
-//WhatsApp: +2348187637779
+//WhatsApp: +2347062667491
 //want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@esteams
 
 const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "2349026200686"
-global.ownername = "QUEEN SMILE"
+global.ownernomer = "2347062667491"
+global.ownername = "LEY"
 global.ytname = "YT: paskito"
 global.socialm = "GitHub: paskito002"
 global.location = "UK"
 
-global.ownernumber = '2349026200686'  //creator number
-global.ownername = 'QUEEN SMILE' //owner name
-global.botname = 'SPIDER-V8' //name of the bot
+global.ownernumber = '2347062667491'  //creator number
+global.ownername = 'LEY' //owner name
+global.botname = 'LEYBOT-V8' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
-global.author = 'QUEEN SMILE\n\nContact: +2349026200686'
+global.author = 'LEY\n\nContact: +2347062667491'
 
 //console view/theme
 global.themeemoji = '🪀'
-global.wm = "QUEEN SMILE."
+global.wm = "LEY."
 
 //theme link
 global.link = 'https://whatsapp.com/channel/0029Vaj1vKSK5cDDT4tVvY1y'
